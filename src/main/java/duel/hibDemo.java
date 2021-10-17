@@ -23,5 +23,6 @@ public class hibDemo {
         session.save(playerFighter);
         tx.commit();
         session.close();
+
     }
 }
